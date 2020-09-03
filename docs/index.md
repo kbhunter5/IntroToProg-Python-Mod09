@@ -28,8 +28,8 @@ This week I learned how to write code once and use it over and over again. Modul
 This week I was able to separate my code into separate modules and call up those modules into a main script. The separate modules helped me organize my code better. So when something needed to be updated or changed I could quickly access the correct module update the code and rerun. Saving these modules as template could help a coder finish project faster.  
 
 ## Sources
-https://www.w3schools.com/python/python_modules.asp
-https://www.geeksforgeeks.org/python-locals-function/
-https://realpython.com/python-modules-packages/
-https://www.tutorialspoint.com/python/python_modules.htm
+https://www.w3schools.com/python/python_modules.asp  
+https://www.geeksforgeeks.org/python-locals-function/  
+https://realpython.com/python-modules-packages/  
+https://www.tutorialspoint.com/python/python_modules.htm  
 
