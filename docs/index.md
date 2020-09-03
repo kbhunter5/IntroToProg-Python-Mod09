@@ -86,7 +86,7 @@ while (True):
 ### Picture of code working in Working in PyCharm 2.
 
 ![Employee Data.txt](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/EmployeeData.png "Employee Data.txt")  
-### Picture of the Employee Data.txt outputfile
+### Picture of the Employee Data.txt output file.
 
 ![Command Prompt Pic](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/CommandPrompt.png "Command Prompt Pic")  
 ### Picture of code working in the Command Prompt.
