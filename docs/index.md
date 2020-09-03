@@ -79,6 +79,8 @@ while (True):
 ```
 
 ![Working in PyCharm 1](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/PyCharmPic1.png "Working in PyCharm 1")
+![Working in PyCharm 1](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/PyCharmPic1.png "Working in PyCharm 1")
+
 ### Picture of code working in Working in PyCharm 1.
 
 ![Working in PyCharm 2](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/PyCharmPic2.png "Working in PyCharm 2")
