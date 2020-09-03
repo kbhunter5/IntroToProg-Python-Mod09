@@ -84,6 +84,7 @@ while (True):
 ### Picture of code working in Working in PyCharm 1.
 
 ![Working in PyCharm 2](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/PyCharmPic2.png "Working in PyCharm 2")
+![Working in PyCharm 2](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/PyCharmPic2.png "Working in PyCharm 2")
 ### Picture of code working in Working in PyCharm 2.
 
 ![Employee Data.txt](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/CommandPrompt.png "Employee Data.txt")
