@@ -17,10 +17,10 @@ This week I learned how to write code once and use it over and over again. Modul
 ![Working in PyCharm 2](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/PyCharmPic2.png "Working in PyCharm 2")
 ### Picture of code working in Working in PyCharm 2.
 
-![Products.txt Ouput file](https://kbhunter5.github.io/ITFND100-Mod08/Outputfile.png "Outputfile")
-### Picture of the Products.txt
+![Employee Data.txt](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/CommandPrompt.png "Employee Data.txt")
+### Picture of the Employee Data.txt outputfile
 
-![Command Prompt Pic](https://kbhunter5.github.io/ITFND100-Mod08/CommandPrompt.png "Command Prompt Pic")
+![Command Prompt Pic](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/CommandPrompt.png "Command Prompt Pic")
 ### Picture of code working in the Command Prompt.
 
 ## Summary
