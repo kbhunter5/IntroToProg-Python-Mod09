@@ -11,10 +11,10 @@ This week I learned how to write code once and use it over and over again. Modul
 
 ```
 
-![Working in PyCharm 1](https://kbhunter5.github.io/IntroToProg-Python-Mod09/doc/PyCharmPic1.png "Working in PyCharm 1")
+![Working in PyCharm 1](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/PyCharmPic1.png "Working in PyCharm 1")
 ### Picture of code working in Working in PyCharm 1.
 
-![Working in PyCharm 2](https://kbhunter5.github.io/IntroToProg-Python-Mod09/doc/PyCharmPic2.png "Working in PyCharm 2")
+![Working in PyCharm 2](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/PyCharmPic2.png "Working in PyCharm 2")
 ### Picture of code working in Working in PyCharm 2.
 
 ![Products.txt Ouput file](https://kbhunter5.github.io/ITFND100-Mod08/Outputfile.png "Outputfile")
