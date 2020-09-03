@@ -78,21 +78,17 @@ while (True):
         break  # Exit Program
 ```
 
-![Working in PyCharm 1](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/PyCharmPic1.png "Working in PyCharm 1")
-![Working in PyCharm 1](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/PyCharmPic1.png "Working in PyCharm 1")
 
+![Working in PyCharm 1](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/PyCharmPic1.png "Working in PyCharm 1")  
 ### Picture of code working in Working in PyCharm 1.
 
-![Working in PyCharm 2](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/PyCharmPic2.png "Working in PyCharm 2")
-![Working in PyCharm 2](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/PyCharmPic2.png "Working in PyCharm 2")
+![Working in PyCharm 2](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/PyCharmPic2.png "Working in PyCharm 2")  
 ### Picture of code working in Working in PyCharm 2.
 
-![Employee Data.txt](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/CommandPrompt.png "Employee Data.txt")
-![Employee Data.txt](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/CommandPrompt.png "Employee Data.txt")
+![Employee Data.txt](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/EmployeeData.png "Employee Data.txt")  
 ### Picture of the Employee Data.txt outputfile
 
-![Command Prompt Pic](https://kbhunter5.github.io/IntroToProg-Python-Mod09/docs/CommandPrompt.png "Command Prompt Pic")
-![Command Prompt Pic](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/CommandPrompt.png "Command Prompt Pic")
+![Command Prompt Pic](https://github.com/kbhunter5/IntroToProg-Python-Mod09/blob/master/doc/CommandPrompt.png "Command Prompt Pic")  
 ### Picture of code working in the Command Prompt.
 
 ## Summary
